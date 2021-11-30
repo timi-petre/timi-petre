@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @timi-petre
+# 👋 Hi, I’m @timi-petre
+
+
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Flutter ❤️
 - 💞️ I’m looking to collaborate on future projects.
