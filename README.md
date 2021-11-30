@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timi-petre
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter with Dart
+- 🌱 I’m currently learning Flutter ❤️
 - 💞️ I’m looking to collaborate on future projects.
 - 📫 How to reach me timoteisorin.petre@gmail.com
 
