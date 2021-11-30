@@ -1,4 +1,5 @@
-# 👋 Hi, I’m [Timi Petre](@timi-petre)
+# 👋 Hi, I’m [Timi Petre](https://github.com/timi-petre)
+
 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Flutter ❤️
