@@ -4,6 +4,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Flutter ❤️
 - 💞️ I’m looking to collaborate on future projects.
+- ⚡ Fun fact: I love games & music
 - 📫 How to reach me timoteisorin.petre@gmail.com
 
 <!---
