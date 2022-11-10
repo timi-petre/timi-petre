@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Flutter ❤️
+- 🌱 I’m currently learning Web Development ❤️
 - 💞️ I’m looking to collaborate on future projects.
 - ⚡ Fun fact: I love games & music
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/timotei-petre-b1286b207/) or [Email](mailto:timoteisorin.petre@gmail.com)
