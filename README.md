@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Catts](https://catts.netlify.app/)
 
-- 🌱 I’m currently learning **Frameworks, Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://timi-petre.github.io/](https://timi-petre.github.io/)
 
-- 💬 Ask me about **react, javascript, html, css**
+- 💬 Ask me about **javascript, html, css**
 
 - 📫 How to reach me **timotesorin.petre@gmail.com**
 
-- ⚡ Fun fact **I think I am friendly**
+- ⚡ Fun fact **I think I am friendly and ambitious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
