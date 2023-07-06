@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I am friendly and ambitious**
 
-<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/timotei-sorin-petre-b1286b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timotei sorin petre" height="30" width="20" /></a></h3>
+<h3 align="left">Connect with me: <a href="www.linkedin.com/in/timotei-sorin-petre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timotei sorin petre" height="30" width="20" /></a></h3>
 
 <!---
 timi-petre/timi-petre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
