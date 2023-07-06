@@ -16,9 +16,7 @@
 - ⚡ Fun fact **I think I am friendly and ambitious**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/timotei-sorin-petre-b1286b207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timotei sorin petre" height="30" width="20" /></a>
-</p>
 
 <!---
 timi-petre/timi-petre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
