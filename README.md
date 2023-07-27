@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timi-petre&label=Profile%20views&color=0e75b6&style=flat" alt="timi-petre" /> </p>
 
-- 🔭 I’m currently working on [Catts](https://catts.netlify.app/)
+- 🔭 I’m currently working on [Portfolio](https://timipetre.netlify.app/)
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Front End Development**
 
 - 👨‍💻 All of my projects are available at [https://timi-petre.github.io/](https://timi-petre.github.io/)
 
-- 💬 Ask me about **javascript, html, css**
+- 💬 Ask me about **javascript, html, css, react**
 
 - 📫 How to reach me **timotesorin.petre@gmail.com**
 
