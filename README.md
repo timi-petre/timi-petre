@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front End Development**
 
-- 👨‍💻 All of my projects are available at [https://timi-petre.github.io/](https://timi-petre.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://timipetre.netlify.app/)
 
 - 💬 Ask me about **javascript, html, css, react**
 
