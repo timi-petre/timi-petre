@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://timipetre.netlify.app/)
 
-- 💬 Ask me about **javascript, html, css, react**
-
 - 📫 How to reach me **timotesorin.petre@gmail.com**
 
 - ⚡ Fun fact **I think I am friendly and ambitious**
