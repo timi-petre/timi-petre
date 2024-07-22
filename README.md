@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Romania</h3>
 
 
-- 🔭 I’m currently working on [LongCovid](https://long-covid-spa-frontend-e3bfb4ae5f4f.herokuapp.com/)
+- 🔭 I’m currently working on [LongCovid](https://long-covid-spa-frontend.onrender.com/)
 
 - 🌱 I’m currently learning **Front End Development**
 
